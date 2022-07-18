@@ -1,1 +1,1 @@
-Criação da pasta Bloco 03: Introdução à HTML e CSS
+Exercicio referente Primeiros passos em CSs
